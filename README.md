@@ -2,18 +2,20 @@
 
 Eight editable `.xlsx` workbooks for structured record-keeping and arithmetic planning. The files are separated by language and visible currency format, contain no macros, and can be opened in Microsoft Excel or imported into Google Sheets.
 
+Language: **English** · [Español](README.es.md) · [Português do Brasil](README.pt-BR.md)
+
 ## Download a free workbook
 
-| Language / region | Workbook | Download | Full catalogue |
+| Language / region | Workbook | Free download | Related full edition or hub |
 | --- | --- | --- | --- |
-| Español · EUR | Ingresos y gastos para autónomos | [Download Excel](ES-Ingresos-Gastos-Autonomos-Gratis.xlsx) | [Plantillas en español](https://nimblysheets.com/es) |
-| Español · EUR | Registro de cobros y facturas | [Download Excel](ES-Registro-Cobros-Facturas-Gratis.xlsx) | [Plantillas en español](https://nimblysheets.com/es) |
-| Español · EUR | Inventario y reventa · 50 SKU | [Download Excel](ES-Control-Inventario-Reventa-Gratis-EUR.xlsx) | [Edición completa de inventario](https://nimblysheets.com/es/plantillas/control-inventario-ventas-reventa?utm_source=github&utm_medium=repository&utm_campaign=free_templates) |
-| Español · EUR | Calculadora de tarifa freelance | [Download Excel](ES-Calculadora-Tarifa-Freelance-Gratis.xlsx) | [Plantillas en español](https://nimblysheets.com/es) |
-| Español (México) · MXN | Inventario y reventa · 50 SKU | [Download Excel](MX-Control-Inventario-Reventa-Gratis-MXN.xlsx) | [Recursos para México](https://nimblysheets.com/mx/plantilla-control-inventario-excel-gratis?utm_source=github&utm_medium=repository&utm_campaign=mx_free_inventory) |
-| English · USD | Freelancer bookkeeping starter | [Download Excel](EN-Freelancer-Bookkeeping-Starter-Free.xlsx) | [English templates](https://nimblysheets.com/en) |
-| English · USD | Freelance rate calculator | [Download Excel](EN-Freelance-Rate-Calculator-Free.xlsx) | [English templates](https://nimblysheets.com/en) |
-| Português (Brasil) · BRL | Controle de estoque e revenda · 50 SKUs | [Baixar Excel](BR-Controle-Estoque-Revenda-Gratis-BRL.xlsx) | [Recursos em português](https://nimblysheets.com/br?utm_source=github&utm_medium=repository&utm_campaign=br_free_inventory) |
+| Español · EUR | Ingresos y gastos para autónomos | [Download Excel](ES-Ingresos-Gastos-Autonomos-Gratis.xlsx?raw=1) | [Contabilidad para autónomos](https://nimblysheets.com/es/plantillas/contabilidad-autonomos-2026?utm_source=github&utm_medium=repository&utm_campaign=free_templates&utm_content=es_bookkeeping_upgrade) |
+| Español · EUR | Registro de cobros y facturas | [Download Excel](ES-Registro-Cobros-Facturas-Gratis.xlsx?raw=1) | [Control de cobros y facturas](https://nimblysheets.com/es/plantillas/control-cobros-facturas?utm_source=github&utm_medium=repository&utm_campaign=free_templates&utm_content=es_invoices_upgrade) |
+| Español · EUR | Inventario y reventa · 50 SKU | [Download Excel](ES-Control-Inventario-Reventa-Gratis-EUR.xlsx?raw=1) | [Edición completa de inventario](https://nimblysheets.com/es/plantillas/control-inventario-ventas-reventa?utm_source=github&utm_medium=repository&utm_campaign=free_templates&utm_content=es_inventory_upgrade) |
+| Español · EUR | Calculadora de tarifa freelance | [Download Excel](ES-Calculadora-Tarifa-Freelance-Gratis.xlsx?raw=1) | [Pack Finanzas Autónomo](https://nimblysheets.com/es/plantillas/pack-finanzas-autonomo?utm_source=github&utm_medium=repository&utm_campaign=free_templates&utm_content=es_rate_bundle) |
+| Español (México) · MXN | Inventario y reventa · 50 SKU | [Download Excel](MX-Control-Inventario-Reventa-Gratis-MXN.xlsx?raw=1) | [Recursos y edición completa](https://nimblysheets.com/mx/plantilla-control-inventario-excel-gratis?utm_source=github&utm_medium=repository&utm_campaign=mx_free_inventory&utm_content=mx_inventory_upgrade) |
+| English · USD | Freelancer bookkeeping starter | [Download Excel](EN-Freelancer-Bookkeeping-Starter-Free.xlsx?raw=1) | [Full freelancer bookkeeping edition](https://nimblysheets.com/en/templates/freelancer-bookkeeping?utm_source=github&utm_medium=repository&utm_campaign=free_templates&utm_content=en_bookkeeping_upgrade) |
+| English · USD | Freelance rate calculator | [Download Excel](EN-Freelance-Rate-Calculator-Free.xlsx?raw=1) | [Freelancer Finance Toolkit](https://nimblysheets.com/en/templates/freelancer-finance-toolkit?utm_source=github&utm_medium=repository&utm_campaign=free_templates&utm_content=en_rate_bundle) |
+| Português (Brasil) · BRL | Controle de estoque e revenda · 50 SKUs | [Baixar Excel](BR-Controle-Estoque-Revenda-Gratis-BRL.xlsx?raw=1) | [Recursos em português](https://nimblysheets.com/br?utm_source=github&utm_medium=repository&utm_campaign=br_free_inventory&utm_content=br_inventory_hub) |
 
 ## Start here
 
@@ -32,6 +34,8 @@ The EUR, USD, MXN and BRL labels describe visible number formats. The files do n
 - [Brazilian Portuguese resources](https://nimblysheets.com/br?utm_source=github&utm_medium=repository&utm_campaign=free_templates)
 
 Paid editions add capacity, connected sheets, summaries, controls or companion guides as stated on each product page. Review the exact contents and compatibility notes before purchase.
+
+The free files work independently; following an upgrade link is optional. Any price, discount, redemption limit and refund period is shown on the destination product page and checkout when available.
 
 ## Scope and support
 
