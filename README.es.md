@@ -4,6 +4,8 @@ Ocho archivos `.xlsx` editables para registro estructurado y planificación arit
 
 Idioma: [English](README.md) · **Español** · [Português do Brasil](README.pt-BR.md)
 
+**Descargar el paquete completo:** [8 plantillas Excel gratis + instrucciones en inglés, español y portugués de Brasil](https://github.com/nimblysheets/free-spreadsheet-templates/releases/download/v1.1.0/Nimbly-Sheets-Free-Excel-Templates-v1.1.0.zip)
+
 ## Descargas en español
 
 | Región y formato | Plantilla | Descarga gratis | Edición completa o recursos |
