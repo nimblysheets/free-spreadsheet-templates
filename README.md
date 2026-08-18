@@ -4,6 +4,8 @@ Eight editable `.xlsx` workbooks for structured record-keeping and arithmetic pl
 
 Language: **English** · [Español](README.es.md) · [Português do Brasil](README.pt-BR.md)
 
+**Download the complete pack:** [8 free Excel workbooks + English, Spanish and Brazilian Portuguese instructions](https://github.com/nimblysheets/free-spreadsheet-templates/releases/download/v1.1.0/Nimbly-Sheets-Free-Excel-Templates-v1.1.0.zip)
+
 ## Download a free workbook
 
 | Language / region | Workbook | Free download | Related full edition or hub |
