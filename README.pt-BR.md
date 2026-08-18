@@ -4,6 +4,8 @@ Arquivos `.xlsx` editáveis para organização de registros e cálculos aritmét
 
 Idioma: [English](README.md) · [Español](README.es.md) · **Português do Brasil**
 
+**Baixar o pacote completo:** [8 planilhas Excel grátis + instruções em inglês, espanhol e português do Brasil](https://github.com/nimblysheets/free-spreadsheet-templates/releases/download/v1.1.0/Nimbly-Sheets-Free-Excel-Templates-v1.1.0.zip)
+
 ## Controle de estoque e revenda em BRL
 
 - **Capacidade:** 50 SKUs.
